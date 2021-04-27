@@ -40,7 +40,7 @@ const SavedBooks = ({ data }) => {
                             <div class="card-body">
                                 <h4 class="card-title"><span style={{ fontWeight: "bold" }}>Author:</span> {data.author}</h4>
                                 <p class="card-text">{data.description}</p>
-                                <a href={data.link} target="_blank">Link</a>
+                                <a href={data.link} target="_blank">view</a>
                             </div>
                         </div>
                     </div>

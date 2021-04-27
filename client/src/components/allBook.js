@@ -53,7 +53,7 @@ const AllBook = ({ data }) => {
               <div className="card-body">
                 <h4 className="card-title"><span style={{ fontWeight: "bold" }}>Author:</span> {data.authors}</h4>
                 <p className="card-text">{data.description}</p>
-                <a href={data.link} target="_blank">Link</a>
+                <a href={data.link} target="_blank">view</a>
               </div>
             </div>
           </div>
