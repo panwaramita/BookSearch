@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Image from "../images/kidWithBook.jpg";
-import bookImage from "../images/book.png";
 import axios from "axios";
 import Book from "./allBook";
 const SearchBook=()=>{
