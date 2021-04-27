@@ -24,7 +24,7 @@ const AllBook=({data})=>{
         <div className="container" style={{border:"1px solid black",marginTop:"10px",marginBottom:"10px",backgroundColor:"#ffe6e6"}}>      
         <div className="row"> 
            <div className="col-lg-12">
-           <label id="alert"  style={{display:"block",textAlign:"center",fontSize:"40px",backgroundColor:"lightgreen",color:"red"}}>{save}</label>
+           <label id="alert"  style={{display:"block",textAlign:"center",fontSize:"30px",backgroundColor:"lightgreen",color:"red"}}>{save}</label>
            </div>
            </div>
              <div className="row"> 
