@@ -26,7 +26,7 @@
 * MongoDB
 
 ## Screenshot
-![image](./Book.png)
+![image](./book.png)
 
 ## License
 
