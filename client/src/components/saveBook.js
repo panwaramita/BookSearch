@@ -26,7 +26,7 @@ const SaveBook = () => {
         //create a container for the books from the database
         <div className="container" style={{ marginTop: "80px" }}>
             {(saveBooks.map((ele) => (<Book data={ele} />)))}
-            //display if not records in the database
+            {/* //display if not records in the database */}
             <h1 id="check" style={{ display: "none", textAlign: 'center' }}>No Records</h1>
         </div>
     )
